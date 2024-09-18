@@ -2,3 +2,12 @@ Q1: Why might be consider using git?
 
 Answer: We should use git in order to work on code collaboratively! It allows
 code to be shared among people quickly and in an organized manner.
+
+Q2: What field could data science be applied to?
+Give and Example and how it might help
+
+Answer: Data science can be applied to advertising! By analyzing data, we
+can make judgements on what kinds of things a person would like to see.
+It can also be used for any study where data is involved. We would have to
+organize and sort data in order to determine the pattern.
+
