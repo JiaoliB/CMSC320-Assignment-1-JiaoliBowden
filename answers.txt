@@ -11,3 +11,7 @@ can make judgements on what kinds of things a person would like to see.
 It can also be used for any study where data is involved. We would have to
 organize and sort data in order to determine the pattern.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two lines of commit history while rebasing creates
+a linear history. 
