@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: We should use git in order to work on code collaboratively! It allows
+code to be shared among people quickly and in an organized manner.
